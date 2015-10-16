@@ -1,4 +1,5 @@
-
+DEPRECATED Oct 16 2015 Mark Murray
+iOS 9.0 adds functionality to Interface Builder that allows segues to other storyboard files without needing to use code. It's easy enough now that it doesn't really even warrant a lab.
 
 # Github Storyboards
 
