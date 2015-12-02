@@ -8,3 +8,5 @@ iOS 9.0 adds functionality to Interface Builder that allows segues to other stor
   1. Take a look!, first insert the confirm view controller to show users who they are logged in as
   2. Now, separate all of the "flows" out into separate storyboards.
   3. Make the name storyboard actually work, and then update the table
+
+<a href='https://learn.co/lessons/github-storyboards' data-visibility='hidden'>View this lesson on Learn.co</a>
